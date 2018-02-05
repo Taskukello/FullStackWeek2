@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": "Arto Hellas"
+    },
+    {
+      "name": "Kalle Kajaani",
+      "number": "343-66611",
+      "id": "Kalle Kajaani"
+    },
+    {
+      "name": "Liisa Luotsari",
+      "number": "90-02566",
+      "id": "Liisa Luotsari"
+    },
+    {
+      "name": "Salla Sahaaja ",
+      "number": "333-666",
+      "id": "Salla Sahaaja "
+    },
+    {
+      "name": "Perkele JavaScript",
+      "number": "222-666",
+      "id": "Perkele JavaScript"
+    }
+  ]
+}
